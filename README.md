@@ -1,6 +1,6 @@
 # Experimental Programming and Data Analysis in Python
 
-Welcome to the GitHub repository for **Experimental Programming and Data Analysis in Python**! This course, offered at **Beijing Language and Culture University** in **Spring 2025**, is designed to equip students with essential Python skills, introduce them to experimental programming using **PsychoPy**, and provide hands-on experience in data analysis. Whether you're a beginner or looking to sharpen your skills, this course will guide you through writing experiments and handling data with confidence.
+Welcome to the Course for **Experimental Programming and Data Analysis in Python**! This course, offered at **Beijing Language and Culture University** in **Spring 2025**, is designed to equip students with essential Python skills, introduce them to experimental programming using **PsychoPy**, and provide hands-on experience in data analysis. Whether you're a beginner or looking to sharpen your skills, this course will guide you through writing experiments and handling data with confidence.
 
 ## 📚 Course Overview
 
